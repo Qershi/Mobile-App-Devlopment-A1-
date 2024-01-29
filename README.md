@@ -15,6 +15,8 @@ rounded corners, and yellow text color with a larger size and padding on the lef
  These styles differentiate the buttons and help convey their respective functions to the user.
 
 
+
+
 *App Interface* 
 ![](./Pic1.jpg)
 ![](./Pic2.jpg)
